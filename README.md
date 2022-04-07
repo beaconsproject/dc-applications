@@ -1,2 +1,3 @@
-# dc-mapping-code
-Code associated with disturbance and connectivity mapping project (dc-mapping repository)
+# dc-applications
+
+Analysis and applications using disturbance mapping productions from dc-mapping repository.
